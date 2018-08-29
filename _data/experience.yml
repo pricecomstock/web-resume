@@ -1,19 +1,19 @@
 # Jobs
 # VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: NTT Security
+  position: Technology Integration Engineer
+  duration: May, 2016 &mdash; Present
+  summary: Worked to create monitoring and audit support for a wide range of client devices.<ul class="resume-item-list"><li>Determined the security relevant components and sections of logs</li><li>Created parsing specifications for new technologies and for updated log formats</li><li>Composed detailed and consistent technical documents to ensure accurate parsing and future accessibility.</li><li>Researched and created specifications for non-Rsyslog transport including REST APIs and database queries.</li><li>Performed hands-on designing, testing, troubleshooting, and validation from proof-of-concept to final release.</li><li>Created CLI and web utilities with Python and Javascript to save time and automate tasks.</li></ul>
 
 # Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: First Data Corporation
+  position: Associate Application Developer
+  duration: Jul, 2012 &mdash; May, 2016
+  summary: <ul><li>Troubleshot production Java business intelligence reporting software to fix bugs and increase reliability.</li><li>Reviewed in-house penetration testing results and implemented vulnerability fix patches.</li><li>Cofounded and tracked stats for intern foosball league and created ongoing simulation for league continuity.</li></ul>
 
 
 # Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# - company: Springfield Women & Children's Center
+#   position: Communications Coordinator
+#   duration:   Jun, 2008  &mdash; May, 2010
+#   summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.

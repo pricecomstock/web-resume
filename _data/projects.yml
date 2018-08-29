@@ -2,14 +2,15 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
+- project: powerrank.io
   role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+  duration: 2017 &mdash; Present
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: <ul><li>Fully responsive that calculates aggregate “power rankings” based on users filling out ranked choice polls.</li><li>Vue.js single-page application frontend with Vuex state management and Webpack bundling.</li><li>Node.js RESTful API backend using Mongoose to interface with MongoDB.</li></ul>
+
 
 # Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
+- project: Wallpaper Bot
   role: Co-Founder & Organizer
   duration: 2007 &mdash; Present
   # url: "#"
