@@ -2,9 +2,9 @@
 - degree: Bachelor of Science, Information Assurance
   uni: University of Nebraska - Omaha
   year: 2011 &mdash; 2016
-  # awards:
-  #   - award: 
-  # summary: If you had any meaningful roles at college, feel free to write about them here
+  awards:
+    # - award: Minors in Computer Science, Mathematics
+  summary: Minors in Computer Science and Mathematics
 
 # - degree: High School Diploma
 #   uni: Springfield High School

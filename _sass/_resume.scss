@@ -6,13 +6,16 @@
 .section-header {
   @include section_border;
   margin-bottom: 1.5rem;
+  text-align: center;
+  text-transform: uppercase;
 
   h2 {
     @include sans;
-    font-weight: 900;
+    font-weight: 700;
     font-size: 1.75rem;
     letter-spacing: -.05rem;
     margin: 0;
+    color: $dividercolor;
   }
 }
 
@@ -58,7 +61,7 @@
       font-weight: 300;
       font-size: 1.75rem;
       line-height: 2rem;
-      letter-spacing: -.05rem;
+      // letter-spacing: -.05rem;
       text-align: center;
       margin: 0 0 .5rem;
 
@@ -98,7 +101,7 @@
   .icon-link { display: inline-block;
 
     &:hover .icon path {
-      fill: #333;
+      fill: $dividercolor;
       @include transition(all .2s ease);
     }
   }
@@ -138,14 +141,17 @@
   .resume-item { margin-bottom: 2rem; }
 
   .resume-item-title {
+    text-align: center;
     @include sans_bold;
     margin: 0 0 .75rem;
     font-size: 1.5rem;
     letter-spacing: -.05rem;
     line-height: 1;
   }
-
+  
   .resume-item-details {
+    text-align: center;
+    @include serif;
     font-size: 1.125rem;
     margin: 0 0 .75rem;
     line-height: 1;
@@ -153,6 +159,17 @@
     &.award-title {
       font-size: 1rem;
     }
+  }
+  
+  .resume-item-duration {
+    text-align: center;
+    @include sans_light;
+    font-size: 0.9rem;
+    margin: 0 0 .75rem;
+    line-height: 1;
+    letter-spacing: 1px;
+
+    text-transform: uppercase;
   }
 
   .resume-item-title,

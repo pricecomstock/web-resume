@@ -51,17 +51,17 @@
 // type utilities
 
 @mixin sans {
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 @mixin sans_light {
   @include sans;
-  font-weight: 300;
+  font-weight: 400;
 }
 
 @mixin sans_regular {
   @include sans;
-  font-weight: 400;
+  font-weight: 500;
 }
 
 @mixin sans_bold {
@@ -74,30 +74,36 @@
   font-weight: 800;
 }
 
+// @font-face {
+//   font-family: "ArcherSSm";
+//   src: url("/_assets/fonts/ArcherSSm-SemiboldItalic.otf") format('otf');
+// }
+
 @mixin serif {
-  font-family: "Lora", "Minion Pro", Palatino, Georgia, serif;
+  font-family: "Arvo", "Lora", "Minion Pro", Palatino, Georgia, serif;
 }
 
-@mixin serif_regular {
-  @include serif;
-  font-weight: 400;
-}
+// @mixin serif_regular {
+//   @include serif;
+//   // font-weight: 400;
+// }
 
 @mixin serif_bold {
   @include serif;
   font-weight: 700;
+  font-style: italic;
 }
 
 // layout
 
 @mixin section_border {
-  border-top: 4px solid #c7c7c7;
-  border-bottom: 2px solid #c7c7c7;
+  border-top: 4px solid $dividercolor;
+  border-bottom: 2px solid $dividercolor;
   padding: .2rem 0 .4rem;
 }
 
 @mixin section_border_thin {
-  border-top: 1px solid #c7c7c7;
-  border-bottom: 1px solid #c7c7c7;
+  border-top: 1px solid $thindividercolor;
+  border-bottom: 1px solid $thindividercolor;
   padding: .2rem 0 .2rem;
 }

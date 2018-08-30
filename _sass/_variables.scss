@@ -8,11 +8,16 @@ $grid-gutter:     10px !default;
 $white:             #fff;
 $black:             #333;
 
+$dividercolor:      #51bb7b;
+// $dividercolor:      #51bb7b;
+$thindividercolor:      #c7c7c7;
+
 // Styles
 $text_color:        $black;
 
 // Font stack
 $body-font: Helvetica, arial, nimbussansl, liberationsans, freesans, clean, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol" !default;
+// $body-font: Montserrat, arial, nimbussansl, liberationsans, freesans, clean, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol" !default;
 
 // The base body size
 $body-font-size: 13px !default;
