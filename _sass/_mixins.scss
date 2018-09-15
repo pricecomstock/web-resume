@@ -80,7 +80,7 @@
 // }
 
 @mixin serif {
-  font-family: "Arvo", "Lora", "Minion Pro", Palatino, Georgia, serif;
+  font-family: "Josefin Slab", "Minion Pro", Palatino, Georgia, serif;
 }
 
 // @mixin serif_regular {
@@ -90,7 +90,7 @@
 
 @mixin serif_bold {
   @include serif;
-  font-weight: 700;
+  font-weight: 600;
   font-style: italic;
 }
 
