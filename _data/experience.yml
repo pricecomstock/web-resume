@@ -3,13 +3,13 @@
 - company: NTT Security
   position: Technology Integration Engineer
   duration: May, 2016 &mdash; Present
-  summary: Worked to create monitoring and audit support for a wide range of client devices.<ul class="resume-item-list"><li>Determined the security relevant components and sections of logs</li><li>Created parsing specifications for new technologies and for updated log formats</li><li>Composed detailed and consistent technical documents to ensure accurate parsing and future accessibility.</li><li>Researched and created specifications for non-Rsyslog transport including REST APIs and database queries.</li><li>Performed hands-on designing, testing, troubleshooting, and validation from proof-of-concept to final release.</li><li>Created CLI and web utilities with Python and Javascript to save time and automate tasks.</li></ul>
+  summary: <ul class="resume-item-list"><li>Determined the security relevant components of logs from a wide variety of security and network devices.</li><li>Created parsing specifications for new technologies and updated log formats.</li><li>Composed detailed and consistent technical documents to ensure accurate parsing and future accessibility.</li><li>Researched and created specifications for non-Rsyslog transport including REST APIs and database queries.</li><li>Directed the design, testing, troubleshooting, and validation of log transports from proof-of-concept to final release.</li><li>Created CLI and web utilities with Python and Javascript to automate tasks.</li></ul>
 
 # Director of Digital Stratgy
 - company: First Data Corporation
   position: Associate Application Developer
   duration: Jul, 2012 &mdash; May, 2016
-  summary: <ul><li>Troubleshot production Java business intelligence reporting software to fix bugs and increase reliability.</li><li>Reviewed in-house penetration testing results and implemented vulnerability fix patches.</li><li>Cofounded and tracked stats for intern foosball league and created ongoing simulation for league continuity.</li></ul>
+  summary: <ul class="resume-item-list"><li>Troubleshot production Java business intelligence reporting software to fix bugs and increase reliability.</li><li>Reviewed in-house penetration testing results and implemented vulnerability fix patches.</li><li>Cofounded and tracked stats for intern foosball league and created ongoing simulation for league continuity.</li></ul>
 
 
 # Communications Coordinator

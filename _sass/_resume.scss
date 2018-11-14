@@ -11,9 +11,9 @@
 
   h2 {
     @include sans;
-    font-weight: 700;
-    font-size: 1.75rem;
-    letter-spacing: -.05rem;
+    font-weight: 600;
+    font-size: 2rem;
+    // letter-spacing: -.05rem;
     margin: 0;
     color: $dividercolor;
   }
@@ -171,6 +171,15 @@
 
     text-transform: uppercase;
   }
+  
+  .resume-item-minors {
+    text-align: center;
+    @include sans_light;
+    font-size: 0.9rem;
+    margin: 0 0 .75rem;
+    line-height: 1;
+    letter-spacing: 1px;
+  }
 
   .resume-item-title,
   .resume-item-details,
@@ -205,7 +214,7 @@
     color: #999;
 
     > a {
-      font-weight: 700;
+      font-weight: 600;
       color: #333;
     }
   }

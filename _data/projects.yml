@@ -3,15 +3,15 @@
 
 # jazznotes.io
 - project: powerrank.io
-  role: Founder & Developer
-  duration: 2017 &mdash; Present
+  # role: Founder & Developer
+  # duration: 2017 &mdash; Present
   # url: "#"
-  description: <ul><li>Fully responsive that calculates aggregate “power rankings” based on users filling out ranked choice polls.</li><li>Vue.js single-page application frontend with Vuex state management and Webpack bundling.</li><li>Node.js RESTful API backend using Mongoose to interface with MongoDB.</li></ul>
+  description: <ul><li>Fully responsive web app that calculates aggregate “power rankings” based on users filling out ranked choice polls.</li><li>Vue.js single-page application frontend with Vuex state management and Webpack bundling.</li><li>Node.js REST API backend using Mongoose to interface with MongoDB.</li></ul>
 
 
 # Springfield Community Outreach Group
-- project: Wallpaper Bot
-  role: Founder & Developer
-  duration: 2016 &mdash; Present
+- project: Inspopaper
+  # role: Founder & Developer
+  # duration: 2016 &mdash; Present
   # url: "#"
-  description: <ul><li>App available on Slack App store that creates wallpapers on demand from messages posted in Slack.</li><li>Serverless architecture using Google Cloud Python Functions and Google Cloud Blob Storage.</li></ul>
+  description: <ul><li>App available on Slack App store that creates novelty desktop wallpapers on demand from messages posted in Slack.</li><li>Serverless architecture using Google Cloud Python Functions and Google Cloud Blob Storage.</li></ul>

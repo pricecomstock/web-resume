@@ -5,8 +5,8 @@
 
 # Communications strategy
 - skill: Tools & Frameworks
-  description: Linux, Git, Node.js, REST APIs, Vue.js, MongoDB, Webpack, Flask, Rsyslog, Google Cloud Platform
+  description: Linux, Git, Node.js, REST APIs, Vue.js, MongoDB, Socket.io, Express, Webpack, Flask, Rsyslog, Google Cloud Platform
 
 # Digital content development and creation
 - skill: Other
-  description: Technical writing, Microsoft Excel, Slack API, Adobe Illustrator, Blender
+  description: Technical Writing, Blender, Slack API, Excel, Adobe Illustrator, Video Editing

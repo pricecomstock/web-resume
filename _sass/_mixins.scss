@@ -66,7 +66,7 @@
 
 @mixin sans_bold {
   @include sans;
-  font-weight: 700;
+  font-weight: 600;
 }
 
 @mixin sans_extrabold {
@@ -97,8 +97,8 @@
 // layout
 
 @mixin section_border {
-  border-top: 4px solid $dividercolor;
-  border-bottom: 2px solid $dividercolor;
+  border-top: 3px solid $dividercolor;
+  border-bottom: 3px solid $dividercolor;
   padding: .2rem 0 .4rem;
 }
 
