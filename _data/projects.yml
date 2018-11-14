@@ -14,4 +14,4 @@
   # role: Founder & Developer
   # duration: 2016 &mdash; Present
   # url: "#"
-  description: <ul><li>App available on Slack App store that creates novelty desktop wallpapers on demand from messages posted in Slack.</li><li>Serverless architecture using Google Cloud Python Functions and Google Cloud Blob Storage.</li></ul>
+  description: <ul><li>App available on Slack app directory that creates novelty desktop wallpapers on demand from messages posted in Slack.</li><li>Serverless architecture using Google Cloud Python Functions and Google Cloud Blob Storage.</li></ul>
